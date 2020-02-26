@@ -1,0 +1,6 @@
+l= input()
+li = l.split(',')
+tup = tuple(li)
+li = list(li)
+print(tup)
+print(li)
